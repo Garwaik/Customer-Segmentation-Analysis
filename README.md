@@ -58,7 +58,7 @@ Customer segments were visualized using scatter plots to identify distinct custo
 
 ## Customer Segmentation Visualization
 
-![Customer Segmentation](customer_segmentation.png)
+![Customer Segmentation](segmentation_output.png)
 
 ## Results
 
